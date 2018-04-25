@@ -1,3 +1,6 @@
 File 4
 change1
 change2
+
+change in conflict branch 1
+

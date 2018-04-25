@@ -1,6 +1,4 @@
 File 3
-<<<<<<< HEAD
 change 1
-=======
-git changes in remote
->>>>>>> e60b93d3b09730a71c6c81b792c63b5cbdbe7d47
+change in conflict branch 1
+ 
